@@ -1,0 +1,10 @@
+D:\TUC_Publisher\TUC_Publisher\bin\Debug\TUC_Publisher.exe
+D:\TUC_Publisher\TUC_Publisher\bin\Debug\TUC_Publisher.pdb
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.csprojResolveAssemblyReference.cache
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.csproj.GenerateResource.Cache
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.exe
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.pdb
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.Form_Edit_Tags.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.Form_MainWindow.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.Properties.Resources.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Debug\TUC_Publisher.form_Preview.resources

@@ -1,0 +1,302 @@
+// Tags
+// 格式: 顯示名稱, {標籤(中英文皆可)}, 預設內容(可不填)
+動畫名稱, {動畫名稱}, PSYCHO PASS 2
+集數, {集數}
+容量, {容量}
+監督, {監督}, 紅燒小名
+翻譯, {翻譯}, 火村
+校譯, {校譯}, 菲歇爾
+時軸, {時軸}, 綠油
+校正, {校正}, cora
+字幕特效, {字幕特效}, 紅燒小名
+OP特效, {OP特效}, 橘ひかり
+ED特效, {ED特效}, 紅燒小名
+720壓制, {720壓制}, リオン
+1080壓制, {1080壓制}, リオン
+海報, {海報}, フミコ
+宣傳, {宣傳}, 紅燒小名
+檔名, {filename}, [TUcaptions][{動畫名稱}][{集數}][TV-720P][BIG5].mp4
+
+### ###
+
+// Publish site
+// 格式: 網站名稱, 網址
+動漫花園, http://share.dhmy.org/topic/add
+伊莉BT, http://www05.eyny.com/forum.php?mod=forumdisplay&fid=143
+伊莉上傳, http://www06.eyny.com/thread-9881440-1-1.html
+研伝說, http://www.c4story.com/forum.php?mod=viewthread&tid=5960
+
+### ###
+// HTML code
+// 在原始碼裡插入標籤 程式會自動取代
+<!--
+
+一般標題：
+[TUcaptions] 2014秋 // サイコパス 2 / 心靈判官 2 // 01 // 720P-MP4-BIG5(繁)【內附壓制招募漫畫】
+
+最後一集標題：
+[TUcaptions] 2014秋 // サイコパス 2 / 心靈判官 2 // 13 (End) // 720P-MP4-BIG5(繁)【內附壓制招募漫畫】
+
+合集標題：
+[TUcaptions] 2014秋 // サイコパス 2 / 心靈判官 2 // 01~13 // 720P-MP4-BIG5(繁)【內附壓制招募漫畫】
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+例： 標字：(253, 253, 253) 標底：(96, 96, 96)    格底：(224, 224, 224)
+-----------------------------------------------------------------
+春： 標字：(255, 255, 153) 標底：(153, 137, 209) 格底：(255, 221, 237)
+夏： 標字：(85, 107, 47)   標底：(173, 238, 162) 格底：(217, 255, 219)
+秋： 標字：(160, 82, 45)   標底：(255, 186, 140) 格底：(255, 225, 206)
+冬： 標字：(255, 255, 255) 標底：(77, 139, 255)  格底：(225, 241, 255)
+劇： 標字：(255, 255, 255) 標底：(95, 95, 95)    格底：(223, 223, 223)
+特： 標字：(255, 255, 255) 標底：(159, 72, 159)  格底：(235, 206, 238)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = -->
+
+<span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4;">
+<table style="background-color: rgb(238, 238, 255) ; border: 3px solid rgb(238, 238, 255)" align="center" width="90%" frame="box" cellpadding="8" cellspacing="5">
+    <tbody>
+        <tr>
+<!--#-->    <td colspan="6" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">&sect; 心靈判官 2 &sect;</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" align="center" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">
+            <div>&nbsp;</div>
+<!--#-->    <p style="text-align: center; ">&nbsp;<img alt="http://pics.tucaptions.org/poster%20-%20No.0XX.jpg" src="http://pics.tucaptions.org/poster%20-%20No.048.jpg" width="60%" /></p>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="2" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 故事簡介 ●</span></span></td>
+            <td colspan="2" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 動畫製作人員 ●</span></span></td>
+            <td colspan="2" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 聲優 ●</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+<!--#-->    <td width="33%" valign="Top" colspan="2" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">
+            <div><span style="color: #008000;">&nbsp; &nbsp; &nbsp; &nbsp; PSYCHO-PASS是一種計算人類的每個心理狀態和個性傾向所得到的衡量指數。在近未來的日本，為了讓社會達到最理想的狀態，PSYCHO-PASS數值的測量和實踐，因此變得舉足輕重。然而在此同時，還有一個數值同樣會被嚴密地測量，這個數值被相信正比於著一個人的犯罪機率——此即所謂的「犯罪指數」。「犯罪指數」超過一定值的人，即使尚未做出任何犯罪行為，仍會被視為潛在犯而受到制裁與管控。故事的主線便是描寫為了維持治安，公安局刑事課第一分隊的成員各種活躍的表現。</span></div>
+            </td>
+            <!--$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 分格 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$--> 
+<!--#-->    <td width="33%" valign="Top" colspan="2" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">
+            <div><span style="color: #0000FF;">監督：</span><span style="color: #008000;">鹽谷直義</span></div>
+            <div><span style="color: #0000FF;">系列構成：</span><span style="color: #008000;">沖方丁</span></div>
+            <div><span style="color: #0000FF;">企劃監修：</span><span style="color: #008000;">本廣克行、虛淵玄</span></div>
+            <div><span style="color: #0000FF;">劇本：</span><span style="color: #008000;">熊谷純</span></div>
+            <div><span style="color: #0000FF;">角色原案：</span><span style="color: #008000;">天野明</span></div>
+            <div><span style="color: #0000FF;">人物設計：</span><span style="color: #008000;">淺野恭司</span></div>
+            <div><span style="color: #0000FF;">系列導演：</span><span style="color: #008000;">鈴木清崇</span></div>
+            <div><span style="color: #0000FF;">總作畫監督：</span><span style="color: #008000;">淺野恭司、高田晃</span></div>
+            <div><span style="color: #0000FF;">色彩設計：</span><span style="color: #008000;">永井留美子</span></div>
+            <div><span style="color: #0000FF;">美術監督：</span><span style="color: #008000;">松浦隆弘</span></div>
+            <div><span style="color: #0000FF;">3D監督：</span><span style="color: #008000;">笠永祥文</span></div>
+            <div><span style="color: #0000FF;">攝影監督：</span><span style="color: #008000;">中村俊介</span></div>
+            <div><span style="color: #0000FF;">剪輯：</span><span style="color: #008000;">村上義典</span></div>
+            <div><span style="color: #0000FF;">音樂：</span><span style="color: #008000;">菅野佑悟</span></div>
+            <div><span style="color: #0000FF;">音響監督：</span><span style="color: #008000;">岩浪美和</span></div>
+            <div><span style="color: #0000FF;">動畫製作：</span><span style="color: #008000;">龍之子工作室</span></div>
+            <div><span style="color: #0000FF;">製作：</span><span style="color: #008000;">「心靈判官」製作委員會</span></div>
+            </td>
+<!--#-->    <!--$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 分格 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$--> 
+            <td width="33%" valign="Top" colspan="2" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">
+            <div><span style="color: #0000FF;">狡嚙慎也：</span><span style="color: #008000;">關智一</span></div>
+            <div><span style="color: #0000FF;">常守朱：</span><span style="color: #008000;">花澤香菜</span></div>
+            <div><span style="color: #0000FF;">宜野座伸元：</span><span style="color: #008000;">野島健兒</span></div>
+            <div><span style="color: #0000FF;">征陸智己：</span><span style="color: #008000;">有本欽隆</span></div>
+            <div><span style="color: #0000FF;">滕秀星：</span><span style="color: #008000;">石田彰</span></div>
+            <div><span style="color: #0000FF;">六合塚彌生：</span><span style="color: #008000;">伊藤靜</span></div>
+            <div><span style="color: #0000FF;">唐之杜志恩：</span><span style="color: #008000;">澤城美雪</span></div>
+            <div><span style="color: #0000FF;">槙島聖護：</span><span style="color: #008000;">櫻井孝宏</span></div>
+            <div><span style="color: #0000FF;">大藏信夫：</span><span style="color: #008000;">樫井笙人</span></div>
+            <div><span style="color: #0000FF;">島津千香：</span><span style="color: #008000;">小島幸子</span></div>
+            <div><span style="color: #0000FF;">金原祐治：</span><span style="color: #008000;">鶴岡聰</span></div>
+            <div><span style="color: #0000FF;">崔九善／崔求成：</span><span style="color: #008000;">增谷康紀</span></div>
+            <div><span style="color: #0000FF;">御堂將剛：</span><span style="color: #008000;">水島大宙</span></div>
+            <div><span style="color: #0000FF;">王陵璃華子：</span><span style="color: #008000;">坂本真綾</span></div>
+            <div><span style="color: #0000FF;">泉宮寺豐久：</span><span style="color: #008000;">長克巳</span></div>
+            <div><span style="color: #0000FF;">伊藤純銘：</span><span style="color: #008000;">石上祐一</span></div>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="3" cellspacing="1" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 本集字幕製作人員 ●</span></span></td>
+            <td colspan="3" cellspacing="1" style="text-align: center; background-color: rgb(255, 186, 140);border: 4px solid rgb(255, 186, 140)"><span style="color: rgb(160, 82, 45);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 本集檔案資料 ●</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td valign="Top" colspan="3" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">  <!-- 4E語法 : "4&times;10<sup>8</sup>" -->
+<!--$-->    <div><span style="color: #FF0000;">監督：</span><span style="color: #008000;">{監督}</span></div>
+            <div><span style="color: #0000FF;">翻譯：</span><span style="color: #008000;">{翻譯}</span></div>
+            <div><span style="color: #0000FF;">校譯：</span><span style="color: #008000;">{校譯}</span></div>
+            <div><span style="color: #0000FF;">時軸：</span><span style="color: #008000;">{時軸}</span></div>
+            <div><span style="color: #0000FF;">校正：</span><span style="color: #008000;">{校正}</span></div>
+            <div><span style="color: #0000FF;">字幕特效：</span><span style="color: #008000;">{字幕特效}</span></div>
+            <div><span style="color: #0000FF;">OP特效：</span><span style="color: #008000;">{OP特效}</span></div>
+            <div><span style="color: #0000FF;">ED特效：</span><span style="color: #008000;">{ED特效}</span></div>
+            <div><span style="color: #0000FF;">720壓制：</span><span style="color: #008000;">{720壓制}</span></div>
+            <div><span style="color: #0000FF;">1080壓制：</span><span style="color: #008000;">{1080壓制}</span></div>
+            <div><span style="color: #0000FF;">海報：</span><span style="color: #008000;">{海報}</span></div>
+            <div><span style="color: #0000FF;">宣傳：</span><span style="color: #008000;">{宣傳}</span></div>
+            </td>
+            <!--$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 分格 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$-->
+            <td valign="Top" colspan="3" style="background-color: rgb(255, 225, 206); border: 10px solid rgb(255, 225, 206)">
+<!--$-->    <div><span style="color: #0000ff;">檔案名稱 : </span><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4;">{filename}</span></div>  <!-- 集數 -->
+<!--$-->    <div><span style="color: #0000ff;">影片格式 : </span><span style="color: #008000;">720P MP4</span></div>  <!-- 影片格式 -->
+<!--$-->    <div><span style="color: #0000ff;">檔案大小 : </span><span style="color: #008000;">{容量}MB</span></div>  <!-- 檔案大小 -->
+            <div><span style="color: #0000ff;">動畫字幕 : </span><span style="color: #008000;">TUcaptions 台灣正體</span></div>
+<!--#-->    <div><span style="color: #0000ff;">首播日期 : </span><span style="color: #008000;">台北時間2014/10/09起 每週四 23:50-0:20</span></div>
+<!--#-->    <div><span style="color: #0000ff;">連載日期 : </span><span style="color: #008000;">台北時間2014/10/11起 每週日 12:00 </span><span style="color: #ff0000;">(視效率提前連載)</span></div>
+            <div><span style="color: #0000ff;">作種時間 : </span><span style="color: #008000;">3個月</span></div>
+<!--#-->    <div><span style="color: #0000ff;">官方網站 : </span><span style="font-family: Verdana;"><a href="http://psycho-pass.com/">http://psycho-pass.com/</a></span></div>
+<!--#-->    <div><span style="color: #0000ff;">免空載點 : </span><span style="font-family: Verdana;"><a href="http://tucaptions.org/forum.php?mod=viewthread&tid=5286">http://tucaptions.org/forum.php?mod=viewthread&tid=5286</a></span></div>
+<!--#-->    <div><span style="color: #0000ff;">字幕報錯 : </span><span style="font-family: Verdana;"><a href="http://tucaptions.org/forum.php?mod=viewthread&tid=5287">http://tucaptions.org/forum.php?mod=viewthread&tid=5287</a></span></div>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!-- 取消感想 
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(96, 96, 96);border: 4px solid rgb(96, 96, 96)"><span style="color: rgb(253, 253, 253);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">● 製作感想 ●</span></span></td>
+        </tr>
+        <tr>
+            <td colspan="6" style="background-color: rgb(224, 224, 224); border: 10px solid rgb(224, 224, 224)">
+            <div><strong><span style="color: #9932cc;">米雨亞恩 : </span></strong><span style="color: #008000;">這次做鍊金術士的時軸，我覺得還滿開心的ヽ(✿ﾟ▽ﾟ)ノ 雖然是歇爾來問我要不要來拉時軸 不過我心想接一下時軸就當作是訓練自己的能力，然後就接下來了wwww 但是我拉軸速度好像太慢了XDDD 有點對不起當校正的鳥人還要等我做完(´_ゝ`) 希望之後可以跟其他社員合作愉快</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="6" style="background-color: rgb(224, 224, 224); border: 10px solid rgb(224, 224, 224)">
+            <div><strong><span style="color: #9932cc;">菲歇爾 : </span></strong><span style="color: #008000;">這一系列從動話化之前就有開始關注了，雖然我是從A11才開始加入的菜鳥，不過說起來也是很有愛的。所以當初在翻譯的第一集的時候超級興奮的啊。雖然說畫風上改變了一點，稍微太過於...不過依然還是我每個星期最期待的作品之一阿</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="6" style="background-color: rgb(224, 224, 224); border: 10px solid rgb(224, 224, 224)">
+            <div><strong><span style="color: #9932cc;">望月誠 : </span></strong><span style="color: #008000;">這跟我之前製作過的作品不同， 做煉金術士讓我學到了不少新的東西，也讓我改變不少， 其中一個最大應該就是我變得可以很早睡， 並且很早起來(凌晨四點)來繼續接棒，完成這部作品。 其實當一個壓製，心情就是期待與謹慎， 期待著夥伴們的完美輸出；接完棒子，謹慎地走完後面的流程。 因為大家都累慘了，拚了夜車，所以在我上工的時候可能只有我一個人， 外頭的天色開始由黑轉深藍，其實回想一下到底上次是何時看得到這種景色， 而且是非熬夜狀態的時候。 所以不單是生活作息變正常，一早開始就可以看到煉金術士這個可愛溫馨的作品也是讓人心情特好。 但最重要的是，星期五凌晨的心情不只是溫馨，更多的是信心與責任感。 其實製作小組很信任我地把棒子交到我手上的感覺，真的是沒有什麼實感， 第一，因為我還非常菜；第二，因為我通常還來不及看到各位上工就睡著了。 說是寂寞嗎? 還是抱歉呢? 我不知道。 但我覺得這種心情不是不好，只是太獨特，無法簡單分享。</span></div>
+            </td>
+        </tr>
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(255, 104, 104); border: 4px solid rgb(255, 104, 104)"><span style="color: rgb(255, 255, 153);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">▶ 觀看注意事項 ◀</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="background-color: rgb(239, 228, 176); border: 5px solid rgb(239, 228, 176)">
+                <strong><span style="color: #800000; font-size: medium">
+                <ol>
+                <ul>
+                    <li>為了使整部動畫有最佳的觀看度，本作品建議使用<u><span style="font-family: 'Times New Roman';"><em><a href="http://downloads.ddigest.com/software/download.php?sid=1089&ssid=0&did=6&rid=178216"><span style="color: #00A4F2;"> Media Player Classic </span></a></em></span></u>或<u><span style="font-family: 'Times New Roman';"><em><a href="http://briian.com/7994/daum-potplayer.html"><span style="color: #00A4F2;"> 最新版PotPlayer </span></a></em></span></u>觀看!! 若使用其他播放器所產生的問題，恕本社團無法一一回答處理。</li>
+                    <li>若觀賞影片格式為MKV的作品，請務必下載<em><span style="color: #00A4F2;"> 字型 </span></em>並至<em><span style="color: #00A4F2;"> 控制台安裝 </span></em> ，以達到最佳觀看字幕。</li>
+                </ul>
+                </ol>
+                </span>
+            </td>   
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!-- 取消問卷> 
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(255, 104, 104); border: 4px solid rgb(255, 104, 104)"><span style="color: rgb(255, 255, 153);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">▶ 問卷調查 ◀</span></span></td>
+        </tr>
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(239, 228, 176); border: 5px solid rgb(239, 228, 176)">
+                <div>&nbsp;</div>
+                <p style="text-align: center; ">&nbsp;<a href="http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=4100"><img alt="http://pics.tucaptions.org/2014Q3-investigation.jpg" src="http://pics.tucaptions.org/2014Q3-investigation.jpg" width="60%" /></a></p>
+                <div>&nbsp;</div>
+                <div><strong><span style="font-size: large;"><font color="#800000">先在此感謝您觀賞我們的作品～</font></span></strong></div>
+                <div><strong><span style="font-size: large;"><font color="#800000">以下是針對我社作品所設計的問卷調查，您可以在此表達自己的看法，我們會依照您的回覆內容來加以改進、改善。</font></span></strong></div>
+                <div><strong><span style="font-size: large;"><font color="#800000">如果是有在TUcaptions論壇註冊的會員們，若有參與問卷調查的話，每填一部動畫我們各<span style="color: #0000ff;">+50天龍幣</span>和<span style="color: #0000ff;">+10凸度</span>；</font></span></strong></div>
+                <div><strong><span style="font-size: large;"><font color="#800000">論壇總積分超過250的話，就可以<span style="color: #0000ff;">使用論壇聊天室</span>以及購買線上看的用戶組<span style="color: #0000ff;">欸吸雞權貴</span>唷～</font></span></strong></div>
+                <div>&nbsp;</div>
+                <div><span style="font-size: xx-large;"><strong><span style="color: #FF0000;">問卷連結：<u><em><a href="https://docs.google.com/forms/d/1zK_XY4LykVJPAgaqdHPLzYKS_3cfRVbGUELEN0wAZ3A/viewform"><span style="color: #00A4F2;">GLASSLIP</span></a></em></u></span></strong></span></div>
+                <div>&nbsp;</div>
+            </td>
+        </tr-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!-- 取消猜番 
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(255, 104, 104); border: 4px solid rgb(255, 104, 104)"><span style="color: rgb(255, 255, 153);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">▶ 猜番中獎名單 ◀</span></span></td>
+        </tr>
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(239, 228, 176); border: 5px solid rgb(239, 228, 176)">
+                <div>&nbsp;</div>
+                <p style="text-align: center; ">&nbsp;<a href="http://www.tucaptions.org/forum.php?mod=viewthread&tid=4435"><img alt="http://pics.tucaptions.org/2014Q3-voting.jpg" src="http://pics.tucaptions.org/2014Q3-voting.jpg" width="85%" /></a></p>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(255, 104, 104); border: 4px solid rgb(255, 104, 104)"><span style="color: rgb(255, 255, 153);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">▶ 免責聲明 ◀</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="background-color: rgb(239, 228, 176); border: 5px solid rgb(239, 228, 176)">
+                <span style="color: #FF0000;">
+                <ol>
+                <ul>
+                    <li>本社呼籲觀眾們不要將本作品用於盈利和/或非法之目的。</li>
+                    <li>本社亦不承擔觀眾將本作品用於盈利和/或非法目的之任何後果和/或法律責任。</li>
+                    <li>本圖像文件皆從google搜尋可得，不承擔任何技術及版權問題。</li>
+                    <li>下載之連結僅供寬頻測試研究用途，請於下載後24小時內刪除檔案，請勿用於商業目的。</li>
+                </ul>
+                </ol>
+                </span>
+            </td>
+        </tr>
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 分段 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(102, 142, 57); border: 4px solid rgb(102, 142, 57)"><span style="color: rgb(255, 255, 255);"><span style="font-size: x-large;"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4;">▼ 社員招募 ▼</span></span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="background-color: rgb(247, 248, 228); border: 10px solid rgb(247, 248, 228)">
+            <div>&nbsp;</div>
+            <p style="text-align: center; ">&nbsp;<a href="http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=5" rel="external nofollow"><img alt="http://pics.tucaptions.org/TUC-encoding.png" src="http://pics.tucaptions.org/TUC-encoding.png" width="45%" /></a></p>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(102, 142, 57); border: 4px solid rgb(102, 142, 57)"><span style="color: rgb(255, 255, 255);"><span style="font-size: x-large;"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4;">▼ 相關連結 ▼</span></span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="background-color: rgb(242, 243, 211); border: 10px solid rgb(242, 243, 211)">
+            <div><span style="color: #0000ff;">TUcaptions臉書專頁 : </span><span style="font-family: Verdana;"><a href="http://www.facebook.com/TUcaptions">http://www.facebook.com/TUcaptions</a></span></div>
+            <div><span style="color: #0000ff;">TUcaptions論壇首頁 : </span><span style="font-family: Verdana;"><a href="http://www.tucaptions.org/forum.php">http://www.tucaptions.org/forum.php</a></span></div>
+            <div><span style="color: #ff0000;">TUcaptions社員招募 : </span><span style="font-family: Verdana;"><a href="http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=5">http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=5</a></span> <span style="color: #ff0000;">(請先註冊本論壇，且在下面PO文有興趣的工作)</span></div>
+            <div><span style="color: #0000ff;">TUcaptions作品列表 : </span><span style="font-family: Verdana;"><a href="http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=85">http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=85</a></span></div>
+            <div><span style="color: #0000ff;">TUcaptions動漫電台 : </span><span style="font-family: Verdana;"><a href="http://radio.tucaptions.org/">http://radio.tucaptions.org/</a></span></div>
+            <div><span style="color: #0000ff;">從初學到N2推薦教材 : </span><span style="font-family: Verdana;"><a href="http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=92">http://www.tucaptions.org/forum.php?mod=viewthread&amp;tid=92</a></span></div>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(102, 142, 57); border: 4px solid rgb(102, 142, 57)"><span style="color: rgb(255, 255, 255);"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4; font-size: x-large;">▼ 社團公告 ▼</span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!-- 社團公告 -->
+        <tr>
+            <td colspan="6" style="background-color: rgb(237, 239, 194); border: 10px solid rgb(237, 239, 194)">
+<!--$-->    <div><strong><span style="color: #0000ff;">TUcaptions-尸九・尸九・社 : </span></strong><span style="color: #008000;">下集完結。</span></div>
+            </td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="text-align: center; background-color: rgb(102, 142, 57); border: 4px solid rgb(102, 142, 57)"><span style="color: rgb(255, 255, 255);"><span style="font-size: x-large;"><span style="font-family: Arial, \5FAE\8EDF\6B63\9ED1\9AD4;">▼ 尸九・尸九・近況 ▼</span></span></span></td>
+        </tr>
+        <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 分段 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        <tr>
+            <td colspan="6" style="background-color: rgb(228, 232, 166); border: 10px solid rgb(228, 232, 166)">  <!-- 近況 -->
+<!--$-->    <div><strong><span style="color: #9932cc;">鳥人 : </span></strong><span style="color: #008000;">剩蚊你把年輕人想得太膚淺了</span></div>
+<!--$-->    <div><strong><span style="color: #9932cc;">4&times;10<sup>8</sup> : </span></strong><span style="color: #008000;">我不要跟連勝文一樣__________________</span></div>
+<!--$       <div><strong><span style="color: #9932cc;">火村 : </span></strong><span style="color: #008000;">幹你娘超次元ゲイム ネプテューヌmk2明明叫我打3隻テリスト我都打了50隻 任務還顯示我只打了一隻 拎老師</span></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</span>

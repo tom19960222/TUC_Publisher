@@ -1,0 +1,9 @@
+D:\TUC_Publisher\TUC_Publisher\bin\Release\TUC_Publisher.exe
+D:\TUC_Publisher\TUC_Publisher\bin\Release\TUC_Publisher.pdb
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.Form_Edit_Tags.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.Form_MainWindow.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.form_Preview.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.Properties.Resources.resources
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.csproj.GenerateResource.Cache
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.exe
+D:\TUC_Publisher\TUC_Publisher\obj\x86\Release\TUC_Publisher.pdb
