@@ -22,7 +22,7 @@ namespace TUC_Publisher
             foreach (ColumnHeader CH in lv_Tag_Value.Columns)
             {
                 CH.AutoResize(ColumnHeaderAutoResizeStyle.ColumnContent);
-                if (CH.Width < 70) CH.Width = 70;
+                if (CH.Width < 70) CH.Width = 70; 
             }
             
         }
@@ -106,7 +106,7 @@ namespace TUC_Publisher
                     else if (temp.Trim().StartsWith("//"))
                         continue;
                     else
-                        txt_HTMLCode.Text += temp;
+                        txt_HTMLCode.Text += temp+Environment.NewLine;
                 }
             }
         }
@@ -116,6 +116,18 @@ namespace TUC_Publisher
             InitializeComponent();
             AutoResizeAllColumns();
             menuitem_CopyHTML.Click += new EventHandler(menuitem_CopyHTML_Click);
+            txt_HTMLCode.GotFocus += new EventHandler(txt_HTMLCode_GotFocus);
+            txt_HTMLCode.LostFocus += new EventHandler(txt_HTMLCode_LostFocus);
+        }
+
+        void txt_HTMLCode_LostFocus(object sender, EventArgs e)
+        {
+            topmenu.Hide();
+        }
+
+        void txt_HTMLCode_GotFocus(object sender, EventArgs e)
+        {
+            //topmenu.Show();
         }
 
         private void menuitem_CopyHTML_Click(object sender, EventArgs e)

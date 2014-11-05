@@ -46,7 +46,11 @@
             this.menuitem_CopyHTML = new System.Windows.Forms.ToolStripMenuItem();
             this.menu_Sites = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.OFD_Template = new System.Windows.Forms.OpenFileDialog();
+            this.topmenu = new System.Windows.Forms.MenuStrip();
+            this.topmenuitem_Search = new System.Windows.Forms.ToolStripMenuItem();
+            this.topmenuitem_Replace = new System.Windows.Forms.ToolStripMenuItem();
             this.menu_Copy.SuspendLayout();
+            this.topmenu.SuspendLayout();
             this.SuspendLayout();
             // 
             // txt_HTMLCode
@@ -54,11 +58,11 @@
             this.txt_HTMLCode.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_HTMLCode.Location = new System.Drawing.Point(12, 12);
+            this.txt_HTMLCode.Location = new System.Drawing.Point(12, 27);
             this.txt_HTMLCode.Multiline = true;
             this.txt_HTMLCode.Name = "txt_HTMLCode";
             this.txt_HTMLCode.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.txt_HTMLCode.Size = new System.Drawing.Size(860, 607);
+            this.txt_HTMLCode.Size = new System.Drawing.Size(860, 592);
             this.txt_HTMLCode.TabIndex = 0;
             // 
             // lv_Tag_Value
@@ -72,9 +76,9 @@
             this.lv_Tag_Value.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lv_Tag_Value.FullRowSelect = true;
             this.lv_Tag_Value.GridLines = true;
-            this.lv_Tag_Value.Location = new System.Drawing.Point(879, 13);
+            this.lv_Tag_Value.Location = new System.Drawing.Point(879, 27);
             this.lv_Tag_Value.Name = "lv_Tag_Value";
-            this.lv_Tag_Value.Size = new System.Drawing.Size(373, 606);
+            this.lv_Tag_Value.Size = new System.Drawing.Size(373, 592);
             this.lv_Tag_Value.TabIndex = 1;
             this.lv_Tag_Value.UseCompatibleStateImageBehavior = false;
             this.lv_Tag_Value.View = System.Windows.Forms.View.Details;
@@ -193,7 +197,7 @@
             this.menu_Copy.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuitem_CopyHTML});
             this.menu_Copy.Name = "menu_Copy";
-            this.menu_Copy.Size = new System.Drawing.Size(169, 48);
+            this.menu_Copy.Size = new System.Drawing.Size(169, 26);
             // 
             // menuitem_CopyHTML
             // 
@@ -211,11 +215,36 @@
             this.OFD_Template.RestoreDirectory = true;
             this.OFD_Template.FileOk += new System.ComponentModel.CancelEventHandler(this.OFD_Template_FileOk);
             // 
+            // topmenu
+            // 
+            this.topmenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.topmenuitem_Search,
+            this.topmenuitem_Replace});
+            this.topmenu.Location = new System.Drawing.Point(0, 0);
+            this.topmenu.Name = "topmenu";
+            this.topmenu.Size = new System.Drawing.Size(1264, 24);
+            this.topmenu.TabIndex = 3;
+            this.topmenu.Text = "menuStrip1";
+            this.topmenu.Visible = false;
+            // 
+            // topmenuitem_Search
+            // 
+            this.topmenuitem_Search.Name = "topmenuitem_Search";
+            this.topmenuitem_Search.Size = new System.Drawing.Size(43, 20);
+            this.topmenuitem_Search.Text = "搜尋";
+            // 
+            // topmenuitem_Replace
+            // 
+            this.topmenuitem_Replace.Name = "topmenuitem_Replace";
+            this.topmenuitem_Replace.Size = new System.Drawing.Size(43, 20);
+            this.topmenuitem_Replace.Text = "取代";
+            // 
             // Form_MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.topmenu);
             this.Controls.Add(this.btn_AddTag);
             this.Controls.Add(this.btn_Edit_Tag);
             this.Controls.Add(this.btn_Delete_Tag);
@@ -226,9 +255,12 @@
             this.Controls.Add(this.btn_Load_Template);
             this.Controls.Add(this.lv_Tag_Value);
             this.Controls.Add(this.txt_HTMLCode);
+            this.MainMenuStrip = this.topmenu;
             this.Name = "Form_MainWindow";
             this.Text = "TUC發布程式";
             this.menu_Copy.ResumeLayout(false);
+            this.topmenu.ResumeLayout(false);
+            this.topmenu.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -253,6 +285,9 @@
         private System.Windows.Forms.ToolStripMenuItem menuitem_CopyHTML;
         private System.Windows.Forms.ContextMenuStrip menu_Sites;
         private System.Windows.Forms.OpenFileDialog OFD_Template;
+        private System.Windows.Forms.MenuStrip topmenu;
+        private System.Windows.Forms.ToolStripMenuItem topmenuitem_Search;
+        private System.Windows.Forms.ToolStripMenuItem topmenuitem_Replace;
     }
 }
 

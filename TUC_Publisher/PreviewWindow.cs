@@ -14,7 +14,7 @@ namespace TUC_Publisher
         public form_Preview(string HTML)
         {
             InitializeComponent();
-            WebBrowser.DocumentText = HTML;
+            WebBrowser.DocumentText = String.Format("<html><body><div style='width={0}px; height={1}px;'>\n{2}\n</div></body></html>", WebBrowser.ClientSize.Width, WebBrowser.ClientSize.Height, HTML);
             WebBrowser.Refresh();
         }
 
